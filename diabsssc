@@ -1,0 +1,30 @@
+
+#EXTINF:10 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/0c/20170614105730%21RCTI_tegak.png",RCTI
+https://cdn-livetv3.metube.id/hls/eplrcti.m3u8
+
+#EXTINF:11 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/3/3d/Global_TV.png",GTV
+https://cdn-livetv1.metube.id/hls/globaltv.m3u8
+
+#EXTINF:12 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/logo.png",MNC TV
+https://cdn-livetv3.metube.id/hls/eplmnctv.m3u8
+
+#EXTINF:4 tvg-logo="http://www.indonesia.listenradios.com/wp-content/uploads/2016/03/iNews-TV-Streaming-Jakarta.png",iNews TV
+https://cdn-livetv1.metube.id/hls/inewstv.m3u8
+
+#EXTINF:4, TVRI
+https://cdn-livetv1.metube.id/hls/tvri.m3u8
+
+#EXTINF:4,MNCNews
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+
+#EXTINF:8 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png",TV One
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/9e/20140508104741%21RtvIndonesia.png",RTV
+https://cdn-livetv1.metube.id/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png",Kompas Tv
+https://cdn-livetv1.metube.id/hls/kompastv.m3u8
+
+#EXTINF:17 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b384000_sleng.m3u8
